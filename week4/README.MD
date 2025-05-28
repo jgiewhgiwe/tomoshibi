@@ -1,3 +1,3 @@
 # week 4 演習
-- [01_simpleplot]https://colab.research.google.com/drive/1db3QW9eegugGbnqZqq02jDcPw8-Ndzy-?usp=sharing
-- [02_iris_1]https://colab.research.google.com/drive/1oTxi9M6H4xlX019XCQJodBH4Cx-3FdBz?usp=sharing
+- [01]https://drive.google.com/file/d/1yK6r8ZK6DXdDBT_53gSHhmQff6DW4SCp/view?usp=sharing
+- [02]https://drive.google.com/file/d/1KN3d0z-a0mDi05fFRos2DzyzDO0ushqZ/view?usp=sharing
